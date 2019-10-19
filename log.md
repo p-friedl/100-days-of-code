@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 2019 October 19, Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: As I just started and I´m unsure about a right project to start I solved a coding challenge from [EntwicklerHeld](https://platform.entwicklerheld.de).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Good starting point to warm up my Python knowledge. First struggled on the algorithm / plan I wanted to implement, but not with the language or syntax. Therefore it should be no problem to go for something more challenging / a first project the next days. Maybe something related to [streamlit library](https://github.com/streamlit/streamlit) before I dig deeper into Django.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Airport Runway Detection Challenge from EntwicklerHeld](https://platform.entwicklerheld.de/challenge/airport-runway-direction)
+2. [My solution](https://github.com/p-friedl/coding-challenges/blob/master/EntwicklerHeld_Airport-Runway-Detection.py)
