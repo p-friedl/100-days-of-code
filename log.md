@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [Airport Runway Detection Challenge from EntwicklerHeld](https://platform.entwicklerheld.de/challenge/airport-runway-direction)
 2. [My solution](https://github.com/p-friedl/coding-challenges/blob/master/EntwicklerHeld_Airport-Runway-Detection.py)
+
+### Day 2: 2019 October 20, Sunday
+
+**Today's Progress**: I started a first project to simulate the german board game "Mensch ärgere dich nicht". Implemented a first draft of the Board class and the Player class with the possibility to roll and place game figures.
+
+**Thoughts:** I chose this to get deeper into the object oriented mindset as my past experiences are mostly related to functional programming. Needed to look up some stuff but basically there are no blockers currently. Let's see how long it takes to finish the full game sim.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
