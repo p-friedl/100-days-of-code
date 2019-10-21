@@ -19,3 +19,12 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 3: 2019 October 21, Monday
+
+**Today's Progress**: Added an id attribute and a move_figure method to the Player class of my new "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Could have achieved more but got stuck by a bug. I should consider improving debugging skills / learning more about logging implementation.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
