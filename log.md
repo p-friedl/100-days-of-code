@@ -37,3 +37,12 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 5: 2019 October 23, Wednesday
+
+**Today's Progress**: Did some refactoring to implement a Figure class and finished the intelligent figure selection logic for my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Nearly finished with the main logic. I have the feeling that my mind is now working quicker in regards of OOP, especially the refactoring was smoother than expected at the beginning.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
