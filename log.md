@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 4: 2019 October 22, Tuesday
+
+**Today's Progress**: Implemented a logic to ban other player figures into my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Guess it will take 1-2 days more to finish the main logic. Looking forward to work with the resulting game simulation data then! Read an [article about software design and architecture](https://www.freecodecamp.org/news/software-design/) from freeCodeCamp today. Was very informative and opened my eyes that there are also some theoretical topics which I should look up soon.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
