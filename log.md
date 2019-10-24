@@ -46,3 +46,12 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 6: 2019 October 24, Wednesday
+
+**Today's Progress**: Finished and tested the main logic of my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Very positive as everything worked as expected and my tests of the main logic passed successfully. No bugs! Tomorrow I can implement the game loop. Then I should start looking out for a new project.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
