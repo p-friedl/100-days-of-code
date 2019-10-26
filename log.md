@@ -46,11 +46,20 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
-### Day 6: 2019 October 24, Wednesday
+### Day 6: 2019 October 24, Thursday
 
 **Today's Progress**: Finished and tested the main logic of my "Mensch ärgere dich nicht" project.
 
 **Thoughts:** Very positive as everything worked as expected and my tests of the main logic passed successfully. No bugs! Tomorrow I can implement the game loop. Then I should start looking out for a new project.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
+### Day 7: 2019 October 25, Friday
+
+**Today's Progress**: Implemented the game simulation loop of my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Needed to postpone my work for Day 7 to Saturday morning due to timing reasons. Anyway will also do another session for Day 8 later today to compensate and stay on track. The game loop has still a bug with an empty list where I´m removing an item. Guess I will need to implement logging to find the problem more quickly.
 
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
