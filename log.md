@@ -64,3 +64,12 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 8: 2019 October 26, Saturday
+
+**Today's Progress**: Implemented basic logging and fixed the bug that interrupted the game simulation loop of my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Still need to do more research on the logging topic and implement it in the next project from beginning to find such bugs quicker. Glad that it is fixed now and the loop is running until the win condition is reached. Anyway there are more tests needed to be sure the output data is valid. I might go on with that if no other project comes to my mind.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
