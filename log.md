@@ -73,3 +73,13 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 9: 2019 October 27, Sunday
+
+**Today's Progress**: Interrupted my current project to help a friend on an urgent project with the python [otree framework](https://otree.readthedocs.io/en/latest/).
+
+**Thoughts:** While it's not the best progress to interrupt my work it's still important to share knowledge and explain things to others. Anyway tomorrow I will go on with my project again.
+
+**Link(s) to work**
+1. Unfortunately I can't share it as it's in a private Git repo of my friend
+
+
