@@ -82,4 +82,13 @@
 **Link(s) to work**
 1. Unfortunately I can't share it as it's in a private Git repo of my friend
 
+### Day 10: 2019 October 28, Monday
+
+**Today's Progress**: Split the code into separate files and implemented a basic UI with the streamlit library for my "Mensch ärgere dich nicht" project.
+
+**Thoughts:** Streamlit is quite easy to handle - convenient for small prototypes or data projects.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
 
