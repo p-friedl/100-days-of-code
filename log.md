@@ -91,4 +91,13 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Day 11: 2019 October 29, Tuesday
+
+**Today's Progress**: Finished my "Mensch ärgere dich nicht" project by implementing some statistics of the game simulation.
+
+**Thoughts:** Nice to finally see the project in a working state. I have the feeling it's time to go on with another project and it's also a good point to take at least a break from it. For the next project I wish to do something more useful and not only fun related. Let's see.
+
+**Link(s) to work**
+1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
+
 
