@@ -100,4 +100,20 @@
 **Link(s) to work**
 1. [maedn-game-sim Repository](https://github.com/p-friedl/maedn-game-sim)
 
+### Intermediate Planning Day: 2019 October 30, Wednesday
 
+**Reason:** As I finished my last project in a time of general high workload I struggled to find the proper time to do research on the question of "what's next?". Therefore I decided to take a one day break of coding to conduct that research. As I still want to do the challenge properly I categorize this as "planning day" and not part of the official challenge. I will resume with the challenge (Day 12) tomorrow.
+
+**Outcome:**
+Basically there are two areas of interest I want to tackle next:
+1. Learning how to package my future scripts in useful CLI tools
+- one interesting library to explore here is [click](https://palletsprojects.com/p/click/)
+- as I want to learn by doing for this I envision a project to support meeting moderators
+- a minimal outcome would be a tool that allows to create a meeting agenda and then based on the overall schedule shows the time remaining till end
+- this could be possibly extended by the possibility to enter protocols (tasks, decisions, information) and the functionality to export them
+2. Expanding my Python knowledge to build web apps
+- frameworks and libraries to explore here are [Django](https://www.djangoproject.com/start/overview/) and maybe later also [Flask](https://palletsprojects.com/p/flask/)
+- regarding Django a good step to start is their very detailed [first app tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
+- after finishing that introduction to Django it's time to build something own - for this I envision a project to support the game master of a pen & paper game
+- a possible minimal outcome is a web app where all entities around a simple p&p framework (eg. [how to be hero](https://howtobeahero.de/index.php?title=Hauptseite)) can be predefined and then based on that executed as an adventure
+- as this is already a huge target for a minimal outcome let's see where it leads to :)
