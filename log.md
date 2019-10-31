@@ -117,3 +117,13 @@ Basically there are two areas of interest I want to tackle next:
 - after finishing that introduction to Django it's time to build something own - for this I envision a project to support the game master of a pen & paper game
 - a possible minimal outcome is a web app where all entities around a simple p&p framework (eg. [how to be hero](https://howtobeahero.de/index.php?title=Hauptseite)) can be predefined and then based on that executed as an adventure
 - as this is already a huge target for a minimal outcome let's see where it leads to :)
+
+### Day 12: 2019 October 31, Thursday
+
+**Today's Progress**: Happy Halloween! I solved the especially for this day released ['Scary Python'](https://platform.entwicklerheld.de/challenge/scary-python) debugging challenge from [EntwicklerHeld](https://entwicklerheld.de/developers/) today.
+
+**Thoughts:** Usually I wanted to start with the outcome of my Intermediate Planning Day but then I recognized that EntwicklerHeld released a special Halloween Python challenge and spontaneously decided to give it a try. As it was related to debug problems from lesser known Python behavior I needed to look up some stuff to solve it. They referenced a very useful repo that provides a big collection of these cases (see links). I think it will serve as great knowledge source in the future too. Therefore I'm glad I went for this small side-step.
+
+**Link(s)**
+1. [Scary Python](https://platform.entwicklerheld.de/challenge/scary-python)
+2. [wtfpython](https://github.com/satwikkansal/wtfpython)
