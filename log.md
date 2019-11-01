@@ -127,3 +127,12 @@ Basically there are two areas of interest I want to tackle next:
 **Link(s)**
 1. [Scary Python](https://platform.entwicklerheld.de/challenge/scary-python)
 2. [wtfpython](https://github.com/satwikkansal/wtfpython)
+
+### Day 13: 2019 November 1, Friday
+
+**Today's Progress**: I familiarized myself with the [click](https://palletsprojects.com/p/click/) python library as a basis to start the next project.
+
+**Thoughts:** The library seems to be really easy to use and covers a nice set of functionality.
+
+**Link(s) to work**
+1. [cli-tools](https://github.com/p-friedl/cli-tools)
