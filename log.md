@@ -135,4 +135,4 @@ Basically there are two areas of interest I want to tackle next:
 **Thoughts:** The library seems to be really easy to use and covers a nice set of functionality.
 
 **Link(s) to work**
-1. [cli-tools](https://github.com/p-friedl/cli-tools)
+1. [cli-tools Repository](https://github.com/p-friedl/cli-tools)
