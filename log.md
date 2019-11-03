@@ -115,7 +115,7 @@ Basically there are two areas of interest I want to tackle next:
 - frameworks and libraries to explore here are [Django](https://www.djangoproject.com/start/overview/) and maybe later also [Flask](https://palletsprojects.com/p/flask/)
 - regarding Django a good step to start is their very detailed [first app tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 - after finishing that introduction to Django it's time to build something own - for this I envision a project to support the game master of a pen & paper game
-- a possible minimal outcome is a web app where all entities around a simple p&p framework (eg. [how to be hero](https://howtobeahero.de/index.php?title=Hauptseite)) can be predefined and then based on that executed as an adventure
+- a possible minimal outcome is a web app where all entities around a simple p&p framework (eg. [how to be a hero](https://howtobeahero.de/index.php?title=Hauptseite)) can be predefined and then based on that executed as an adventure
 - as this is already a huge target for a minimal outcome let's see where it leads to :)
 
 ### Day 12: 2019 October 31, Thursday
@@ -142,6 +142,15 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: I started the planned new CLI project. Implemented a command to add Information, Decision and Task protocol items with different metadata. Additionally implemented a command to list these items. A local CSV file serves as datasource for these simple operations.
 
 **Thoughts:** The start was a little rough cause I forgot to think about a proper datasource in my planning. After this was solved I was able to implement the needed classes and main flow smoothly apart from some small bugs which I fixed on the fly.
+
+**Link(s) to work**
+1. [cli-tools Repository](https://github.com/p-friedl/cli-tools) (meetmaster folder)
+
+### Day 15: 2019 November 3, Sunday
+
+**Today's Progress**: Extended my CLI meeting protocol tool project. Implemented a command to only list items matching a certain type. Additionally implemented a command to remove single items or delete the whole protocol.
+
+**Thoughts:** It was a straightforward implementation without big problems. I could extend and improve the tool now but I already achieved my goal to learn the click library. Therefore I will most likely move forward to my first Django project tomorrow.
 
 **Link(s) to work**
 1. [cli-tools Repository](https://github.com/p-friedl/cli-tools) (meetmaster folder)
