@@ -136,3 +136,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [cli-tools Repository](https://github.com/p-friedl/cli-tools)
+
+### Day 14: 2019 November 2, Saturday
+
+**Today's Progress**: I started the planned new CLI project. Implemented a command to add Information, Decision and Task protocol items with different metadata. Additionally implemented a command to list these items. A local CSV file serves as datasource for these simple operations.
+
+**Thoughts:** The start was a little rough cause I forgot to think about a proper datasource in my planning. After this was solved I was able to implement the needed classes and main flow smoothly apart from some small bugs which I fixed on the fly.
+
+**Link(s) to work**
+1. [cli-tools Repository](https://github.com/p-friedl/cli-tools) (meetmaster folder)
