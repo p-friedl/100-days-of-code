@@ -154,3 +154,9 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [cli-tools Repository](https://github.com/p-friedl/cli-tools) (meetmaster folder)
+
+### Day 16: 2019 November 4, Monday
+
+**Today's Progress**: Started with the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) to create a basic poll application.
+
+**Thoughts:** The documentation is very rich and well written. Unfortunately I got interrupted by a heroku deployment emergency from a friend. As this took quite long I was not able to finish a significant part of the tutorial yet. Hope I can compensate that tomorrow.
