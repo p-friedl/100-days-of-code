@@ -160,3 +160,9 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Started with the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) to create a basic poll application.
 
 **Thoughts:** The documentation is very rich and well written. Unfortunately I got interrupted by a heroku deployment emergency from a friend. As this took quite long I was not able to finish a significant part of the tutorial yet. Hope I can compensate that tomorrow.
+
+### Day 17: 2019 November 5, Tuesday
+
+**Today's Progress**: Going on with the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) to create a basic poll application. Learned about how to create and use models.
+
+**Thoughts:** Step by step I see how powerful Django really is making things easier. Looking forward to finish the tutorial soon as I'm motivated to start my own project with it. 
