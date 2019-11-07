@@ -172,3 +172,9 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Continued the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) regarding Django admin, the database API, and how to build basic views and templates.
 
 **Thoughts:** Everything is well described and understandable in the official tutorial. Only problem: I'm starting to get impatient just reading and reproducing / playing with the results.
+
+### Day 19: 2019 November 7, Thursday
+
+**Today's Progress**: Still working on the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/). Today was about forms and Django's generic views.
+
+**Thoughts:** No special thoughts today. :)
