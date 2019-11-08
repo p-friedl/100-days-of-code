@@ -178,3 +178,9 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Still working on the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/). Today was about forms and Django's generic views.
 
 **Thoughts:** No special thoughts today. :)
+
+### Day 20: 2019 November 8, Friday
+
+**Today's Progress**: Needed to interrupt my initially planned progress on the official Django tutorial and support a friend again with the Python otree framework for social experiments.
+
+**Thoughts:** It's always a good feeling to share some knowledge and I'm glad I was able to help out especially with some knowledge I recently acquired via 100 Days Of Code.
