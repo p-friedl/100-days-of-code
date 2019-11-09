@@ -184,3 +184,9 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Needed to interrupt my initially planned progress on the official Django tutorial and support a friend again with the Python otree framework for social experiments.
 
 **Thoughts:** It's always a good feeling to share some knowledge and I'm glad I was able to help out especially with some knowledge I recently acquired via 100 Days Of Code.
+
+### Day 21: 2019 November 9, Saturday
+
+**Today's Progress**: Returned back to the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) and learned about basic testing in Django.
+
+**Thoughts:** It was a great introduction to testing and I have the feeling I can adapt some points also for other future projects outside of Django as I haven't applied testing yet to any of my projects. Some further readings / learnings related to this topic which I should consider are [Code coverage](https://docs.djangoproject.com/en/2.2/topics/testing/advanced/#topics-testing-code-coverage) and [Selenium](https://www.seleniumhq.org/).
