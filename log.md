@@ -190,3 +190,9 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Returned back to the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) and learned about basic testing in Django.
 
 **Thoughts:** It was a great introduction to testing and I have the feeling I can adapt some points also for other future projects outside of Django as I haven't applied testing yet to any of my projects. Some further readings / learnings related to this topic which I should consider are [Code coverage](https://docs.djangoproject.com/en/2.2/topics/testing/advanced/#topics-testing-code-coverage) and [Selenium](https://www.seleniumhq.org/).
+
+### Day 22: 2019 November 11, Monday
+
+**Today's Progress**: Finished the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) by learning about static file management and admin template customization.
+
+**Thoughts:** Yes it's the correct date. Needed to pause and move Day 22 from 10th to the 11th of November. Anyway glad that the Django tutorial is done and I can go on with private projects now. I have an idea what I want to do (refer to the log of 30th October) but on the other hand I want to do some paper planning beforehand. Therefore it could be that I push some smaller project in between. We will see tomorrow!
