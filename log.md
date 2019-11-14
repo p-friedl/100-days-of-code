@@ -206,11 +206,13 @@ Basically there are two areas of interest I want to tackle next:
 - But maybe I find also an architectural style to keep it open to have easily new frameworks added in future.
 - As it is mainly driven by a german community I want to check out if I can directly internationalization to support German and English language especially for the UI. For sure this will need a little more research as it was not part of the official Django tutorial. But I know they have documentation for it.
 2. I will give the project the working title "How to be a Dungeon Master" as it fits somehow the name of the to be used framework.
-3. Having a good idea about the data model is crucial for that web app as there are lot of entities with different relationships and attributes. 
+3. Having a good idea about the data model is crucial for that web app as there are lot of entities with different relationships and attributes.
 - The model feature of Django should anyway work fine to build it.
 - It will make sense to properly structure the project into several apps which can live on their own too.
 - A good starting point would be the Character model which I scribbled on some paper already
 4. I had a look on some existing apps out there serving a similar purpose
 - [Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) and [Roll20](https://roll20.net/) are very mature in that area
 - the first target is not to rebuild them but rather use the simplicity of the how to be a hero framework to build a toolset to make the life of the dungeon master easier
-- I want to build up a basic backend first and then start with UI topics which can be continuously improved. But of course I have already some UI ideas in my mind as it also has effect on the data model.
+- the [dungeon revealer](https://github.com/dungeon-revealer/dungeon-revealer) is more focused on maps which I don't want to support at the beginning. But for the future it might be interesting to integrate such tools or extend the web app.
+5. I want to build up a basic backend first and then start with UI topics which can be continuously improved.
+- But of course I have already some UI ideas in my mind as it also has effect on the data model
