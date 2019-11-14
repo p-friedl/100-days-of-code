@@ -196,3 +196,21 @@ Basically there are two areas of interest I want to tackle next:
 **Today's Progress**: Finished the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) by learning about static file management and admin template customization.
 
 **Thoughts:** Yes it's the correct date. Needed to pause and move Day 22 from 10th to the 11th of November. Anyway glad that the Django tutorial is done and I can go on with private projects now. I have an idea what I want to do (refer to the log of 30th October) but on the other hand I want to do some paper planning beforehand. Therefore it could be that I push some smaller project in between. We will see tomorrow!
+
+### Intermediate Planning Days: 2019 November 12-14
+
+**Reason:** I'm facing my first big Django project. I want to build a web app which supports a game / dungeon master in the preparation and execution of a pen & paper adventure. For that reason and also due to high workload in my job I decided to invest some time in planning.
+
+**Outcome:**
+1. I decided to build the game based on the [how to be a hero](https://howtobeahero.de/index.php?title=Hauptseite) framework.
+- But maybe I find also an architectural style to keep it open to have easily new frameworks added in future.
+- As it is mainly driven by a german community I want to check out if I can directly internationalization to support German and English language especially for the UI. For sure this will need a little more research as it was not part of the official Django tutorial. But I know they have documentation for it.
+2. I will give the project the working title "How to be a Dungeon Master" as it fits somehow the name of the to be used framework.
+3. Having a good idea about the data model is crucial for that web app as there are lot of entities with different relationships and attributes. 
+- The model feature of Django should anyway work fine to build it.
+- It will make sense to properly structure the project into several apps which can live on their own too.
+- A good starting point would be the Character model which I scribbled on some paper already
+4. I had a look on some existing apps out there serving a similar purpose
+- [Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) and [Roll20](https://roll20.net/) are very mature in that area
+- the first target is not to rebuild them but rather use the simplicity of the how to be a hero framework to build a toolset to make the life of the dungeon master easier
+- I want to build up a basic backend first and then start with UI topics which can be continuously improved. But of course I have already some UI ideas in my mind as it also has effect on the data model.
