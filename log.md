@@ -197,7 +197,7 @@ Basically there are two areas of interest I want to tackle next:
 
 **Thoughts:** Yes it's the correct date. Needed to pause and move Day 22 from 10th to the 11th of November. Anyway glad that the Django tutorial is done and I can go on with private projects now. I have an idea what I want to do (refer to the log of 30th October) but on the other hand I want to do some paper planning beforehand. Therefore it could be that I push some smaller project in between. We will see tomorrow!
 
-### Intermediate Planning Days: 2019 November 12-14
+### Intermediate Planning Days: 2019 November 12-15
 
 **Reason:** I'm facing my first big Django project. I want to build a web app which supports a game / dungeon master in the preparation and execution of a pen & paper adventure. For that reason and also due to high workload in my job I decided to invest some time in planning.
 
