@@ -237,3 +237,12 @@ Basically there are two areas of interest I want to tackle next:
 - the [dungeon revealer](https://github.com/dungeon-revealer/dungeon-revealer) is more focused on maps which I don't want to support at the beginning. But for the future it might be interesting to integrate such tools or extend the web app.
 5. I want to build up a basic backend first and then start with UI topics which can be continuously improved.
 - But of course I have already some UI ideas in my mind as it also has effect on the data model
+
+### Day 23: 2019 November 16, Saturday
+
+**Today's Progress**: After taking a planning pause, D23 is there and I started my new project with working title "How to be a Game Master". The purpose is to build a web app which supports game masters of the pen & paper framework "How to be a Hero". Started with the character model.
+
+**Thoughts:** The character model is not finished yet as I got stuck with an error in the Django DB migration. I don't know what is the problem, need to investigate on that tomorrow.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
