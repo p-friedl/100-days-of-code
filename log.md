@@ -161,11 +161,17 @@ Basically there are two areas of interest I want to tackle next:
 
 **Thoughts:** The documentation is very rich and well written. Unfortunately I got interrupted by a heroku deployment emergency from a friend. As this took quite long I was not able to finish a significant part of the tutorial yet. Hope I can compensate that tomorrow.
 
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
+
 ### Day 17: 2019 November 5, Tuesday
 
 **Today's Progress**: Going on with the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) to create a basic poll application. Learned about how to create and use models.
 
 **Thoughts:** Step by step I see how powerful Django really is making things easier. Looking forward to finish the tutorial soon as I'm motivated to start my own project with it.
+
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
 
 ### Day 18: 2019 November 6, Wednesday
 
@@ -173,11 +179,17 @@ Basically there are two areas of interest I want to tackle next:
 
 **Thoughts:** Everything is well described and understandable in the official tutorial. Only problem: I'm starting to get impatient just reading and reproducing / playing with the results.
 
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
+
 ### Day 19: 2019 November 7, Thursday
 
 **Today's Progress**: Still working on the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/). Today was about forms and Django's generic views.
 
 **Thoughts:** No special thoughts today. :)
+
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
 
 ### Day 20: 2019 November 8, Friday
 
@@ -185,17 +197,26 @@ Basically there are two areas of interest I want to tackle next:
 
 **Thoughts:** It's always a good feeling to share some knowledge and I'm glad I was able to help out especially with some knowledge I recently acquired via 100 Days Of Code.
 
+**Link(s) to work**
+1. not available as it's a private repo
+
 ### Day 21: 2019 November 9, Saturday
 
 **Today's Progress**: Returned back to the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) and learned about basic testing in Django.
 
 **Thoughts:** It was a great introduction to testing and I have the feeling I can adapt some points also for other future projects outside of Django as I haven't applied testing yet to any of my projects. Some further readings / learnings related to this topic which I should consider are [Code coverage](https://docs.djangoproject.com/en/2.2/topics/testing/advanced/#topics-testing-code-coverage) and [Selenium](https://www.seleniumhq.org/).
 
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
+
 ### Day 22: 2019 November 11, Monday
 
 **Today's Progress**: Finished the official [Django tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) by learning about static file management and admin template customization.
 
 **Thoughts:** Yes it's the correct date. Needed to pause and move Day 22 from 10th to the 11th of November. Anyway glad that the Django tutorial is done and I can go on with private projects now. I have an idea what I want to do (refer to the log of 30th October) but on the other hand I want to do some paper planning beforehand. Therefore it could be that I push some smaller project in between. We will see tomorrow!
+
+**Link(s) to work**
+1. [polling app tutorial](https://github.com/p-friedl/polling-app-tutorial)
 
 ### Intermediate Planning Days: 2019 November 12-15
 
