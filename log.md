@@ -246,3 +246,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 24: 2019 November 17, Sunday
+
+**Today's Progress**: I fixed the bug from yesterday (turned out to be just a wrongly set comma), enhanced the Character model and added a Skill, Bin, Inventory and Item model.
+
+**Thoughts:** While I was stuck yesterday the progress from today is quite good. While creating the different models the Django documentation was of great help.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
