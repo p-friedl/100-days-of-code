@@ -255,3 +255,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 25: 2019 November 18, Monday
+
+**Today's Progress**: I improved the existing models by adding new fields and adjusting old ones. Additionally I implemented a character admin view.
+
+**Thoughts:** I should reconsider the item and bin model as they don't fit in the character app. Would be better to put them in the future game app. Overall I currently plan to have 3-4 apps: character, story, (opt: item) and game (which basically combines the other apps). Via Twitter I received the link to a free eBook related to Test Driven Development. I should consider having a look inside as I want to start implementing tests early and not too late.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
