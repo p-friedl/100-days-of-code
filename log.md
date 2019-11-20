@@ -264,3 +264,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 26: 2019 November 19, Tuesday
+
+**Today's Progress**: Read about Test Driven Development in Django. Apart from this I restructured my project folders and implemented a creator field in the Character model.
+
+**Thoughts:** I got a little stuck by trying too hard to implement TDD. Currently struggling to adapt my mindset to it. I guess it's related that I'm unsure where to start and how deep it should go. It doesn't make sense to me for example to write a test to check if a certain field gets validated right as this is basic Django functionality and not my code (apart from handling over the right argument for it). Therefore I better focus on writing tests for functions I implement on models. If certain validations get important later I can include their tests at the right time.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
