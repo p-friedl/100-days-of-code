@@ -273,3 +273,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 27: 2019 November 20, Wednesday
+
+**Today's Progress**: Wrote some tests and practiced my first test driven implementation by extending the Character model with a calculate_talents method. All tests runs smoothly.
+
+**Thoughts:** I made the best out of my problems yesterday and TDD is now clearer to me. It still slows my progress down but that should be just a matter of time.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
