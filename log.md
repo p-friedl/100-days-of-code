@@ -287,7 +287,7 @@ Basically there are two areas of interest I want to tackle next:
 
 **Today's Progress**: Expanded the Character model by finishing the calculate_talents method and adding a calculate_rescue_points method. Additionally implemented an add_talent_markup method in the Skill model.
 
-**Thoughts:** TDD starts to help in my workflow, which is good. I guess I should have all the basics in the Backend now to start a first view for Character Sheet creation in the next session.
+**Thoughts:** TDD starts to help in my workflow, which is good. I think I have all the basics in the Backend now to start a first view for Character Sheet creation in the next session.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
