@@ -294,7 +294,7 @@ Basically there are two areas of interest I want to tackle next:
 
 ### Day 29 - 30: 2019 November 23, Saturday - 2019 November 24, Sunday
 
-**Today's Progress**: Paused my Django project cause I helped a friend on some Data cleaning tasks with the Python pandas library. Additionally did some research and experiments on Screen Streaming and Capturing via Javascript as this is needed for another project which came to my mind recently. 
+**Today's Progress**: Paused my Django project cause I helped a friend on some Data cleaning tasks with the Python pandas library. Additionally did some research and experiments on Screen Streaming and Capturing via Javascript as this is needed for another project which came to my mind recently.
 
 **Thoughts:** It was a chaotic weekend and I got distracted too much by future ideas and helping out. But it's important to stay hungry. Anyway looking forward to follow up with my Django project soon.
 
