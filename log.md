@@ -302,3 +302,12 @@ Basically there are two areas of interest I want to tackle next:
 1. [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
 2. [tui image editor](https://www.cssscript.com/canvas-image-editor-tui/)
 3. [fabric.js Canvas manipulation library](http://fabricjs.com/)
+
+### Day 31: 2019 November 25, Monday
+
+**Today's Progress**: Resuming my Django Project - started to implement a Form for the Character Creation view.
+
+**Thoughts:** My progress was already quite advanced doing the form manually. Then I realized there is a much more convenient way to implement forms via Django. Could have saved some time with that knowledge. Anyway we learn from our faults! :)
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
