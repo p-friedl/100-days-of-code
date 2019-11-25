@@ -301,4 +301,4 @@ Basically there are two areas of interest I want to tackle next:
 **Worth to explore further:**
 1. [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
 2. [tui image editor](https://www.cssscript.com/canvas-image-editor-tui/)
-3. [fabric.js Canvas manipulation library](http://fabricjs.com/).
+3. [fabric.js Canvas manipulation library](http://fabricjs.com/)
