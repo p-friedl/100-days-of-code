@@ -311,3 +311,12 @@ Basically there are two areas of interest I want to tackle next:
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 32: 2019 November 26, Tuesday
+
+**Today's Progress**: No big progress as I got stuck on the implementation of the Character form.
+
+**Thoughts:** First I misunderstood the purpose of MultiValue Form Fields and spent some time get them working until I realized they will not solve my problem. Then I learned about there are also ModelForms which might be a solution. But I need to do more research on that topic. Turns out I started too early with a solution as the intended form needs to be dynamic which of course is no standard implementation.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
