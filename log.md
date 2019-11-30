@@ -346,3 +346,12 @@ Let's see how I follow up on this.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 35: 2019 November 30, Saturday
+
+**Today's Progress**: Finished my investigation on Django formset factories (especially inlineformset_factory) and now I clearly can say that this is the best way to achieve what I want.
+
+**Thoughts:** My code is messed up now due to my experimentation so I need to refactor to the final solution in the next session. Glad that I did that research though it took some extra time it reduces the complexity of my code: From initial 100+ lines down to only a couple of lines!  Thats a real Django moment. :)
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
