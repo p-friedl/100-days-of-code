@@ -329,11 +329,20 @@ The following resources might be useful:
 
 **Today's Progress**: I made some progress on implementing the dynamic Character form and it works to create a Character.
 
-**Thoughts:** I followed the [Django Dynamic Forms Tutorial](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/) but it needed adaptions from my side as my case is more complicated (not adding only one dynamic field, but a set of three dynamic fields) and the used Django versions are different (the article is from 2018). Finally I needed to revert some of my implemented code (character creator relation) as I have no authentication except on the admin views and therefore I couldn't save the Character based on the form input as this is missing. The character creation via the new form works now, but I also need to implement the Frontend part to add and remove skills as well a view to edit existing Characters to really check if the new code is working properly. 
+**Thoughts:** I followed the [Django Dynamic Forms Tutorial](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/) but it needed adaptions from my side as my case is more complicated (not adding only one dynamic field, but a set of three dynamic fields) and the used Django versions are different (the article is from 2018). Finally I needed to revert some of my implemented code (character creator relation) as I have no authentication except on the admin views and therefore I couldn't save the Character based on the form input as this is missing. The character creation via the new form works now, but I also need to implement the Frontend part to add and remove skills as well a view to edit existing Characters to really check if the new code is working properly.
 Apart from that I'm still unsure if my solution is the best one for that case, as I found new resources to check related to the problem:
 - [Django Dynamic Forms app](https://github.com/MarkusH/django-dynamic-forms)
 - [Medium Article related to Django formsets and formset_factory](https://medium.com/all-about-django/adding-forms-dynamically-to-a-django-formset-375f1090c2b0)
 Let's see how I follow up on this.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 34: 2019 November 29, Friday
+
+**Today's Progress**: I investigated and experimented with Django formset factories. Not fully finished, need to go on with this in the next session.
+
+**Thoughts:** I researched and tried out especially the modelformset_factory and the inlineformset_factory which might be an easier alternative to improve my character creation form with dynamic skills in the current Django project.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
