@@ -355,3 +355,12 @@ Let's see how I follow up on this.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 36: 2019 December 1, Sunday
+
+**Today's Progress**: Finally the dynamic form topic is history as I finished the Character creation view with the possibility to add and remove Skills via some additional Javascript.
+
+**Thoughts:** Cleaned up my code again after the experimentation. It took some time but now I feel confident on the topic of forms with Django and also refreshed some basic Javascript. Next step would be to do some additional validation logic, like for example it is not allowed to have an overall Skill value of 400. And there are of course a lot of other tasks on the list before the project is finished. 
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
