@@ -360,7 +360,16 @@ Let's see how I follow up on this.
 
 **Today's Progress**: Finally the dynamic form topic is history as I finished the Character creation view with the possibility to add and remove Skills via some additional Javascript.
 
-**Thoughts:** Cleaned up my code again after the experimentation. It took some time but now I feel confident on the topic of forms with Django and also refreshed some basic Javascript. Next step would be to do some additional validation logic, like for example it is not allowed to have an overall Skill value of 400. And there are of course a lot of other tasks on the list before the project is finished. 
+**Thoughts:** Cleaned up my code again after the experimentation. It took some time but now I feel confident on the topic of forms with Django and also refreshed some basic Javascript. Next step would be to do some additional validation logic, like for example it is not allowed to have an overall Skill value of 400. And there are of course a lot of other tasks on the list before the project is finished.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 37: 2019 December 5, Thursday
+
+**Today's Progress**: Back after a couple of days pause. Implemented the dynamic validation of the overall Skill value fields which shouldn't exceed a total of 400 points in the Character creation form. This works and gives realtime feedback based on Event listeners.
+
+**Thoughts:** I'm getting a little confused sometimes as I'm now mixing up Python and Javascript due to the frontend validation logic. But overall thats no blocking point and just a matter of familiarization.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
