@@ -373,3 +373,12 @@ Let's see how I follow up on this.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 38: 2019 December 7, Saturday
+
+**Today's Progress**: Only some lines of code today as I was mostly investigating on how to get the max attribute on the HTML number input field set by my Django model. Turned out that it's not natively possible, therefore I created a custom field subclass of PositiveSmallIntegerField.
+
+**Thoughts:** I have the feeling I got too much bogged down in details. I should more focus on implementing new features rather then solving every little issue directly. 
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
