@@ -378,7 +378,16 @@ Let's see how I follow up on this.
 
 **Today's Progress**: Only some lines of code today as I was mostly investigating on how to get the max attribute on the HTML number input field set by my Django model. Turned out that it's not natively possible, therefore I created a custom field subclass of PositiveSmallIntegerField.
 
-**Thoughts:** I have the feeling I got too much bogged down in details. I should more focus on implementing new features rather then solving every little issue directly. 
+**Thoughts:** I have the feeling I got too much bogged down in details. I should more focus on implementing new features rather then solving every little issue directly.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 39: 2019 December 10, Tuesday
+
+**Today's Progress**: I implemented authentication for my character creation form and used the chance to reimplement the character - creator relation.
+
+**Thoughts:** This was a missing piece from my past formset factory investigations. Now I can concentrate on the skill markup and rescue point calculation to finish the basic frontend - backend integration. Unfortunately the last days were quite stressful and I was not able to find time for the challenge. Anyway slow progress is also progress.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
