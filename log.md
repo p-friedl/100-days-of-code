@@ -391,3 +391,12 @@ Let's see how I follow up on this.
 
 **Link(s) to work**
 1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
+
+### Day 40: 2019 December 13, Friday
+
+**Today's Progress**: I added some fields to my models and adjusted backend functionality accordingly as it's time to expand to some more views.
+
+**Thoughts:** The adaption was straight forward. Just needed to adjust some of the tests which turned out quite useful now to verify if all changes have been done.
+
+**Link(s) to work**
+1. [HowToBeAGameMaster repo](https://github.com/p-friedl/HowToBeAGameMaster)
